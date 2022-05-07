@@ -84,8 +84,8 @@ resource "azurerm_key_vault_access_policy" "storage" {
   tenant_id    = data.azurerm_client_config.current.tenant_id
   object_id    = azurerm_storage_account.sa.identity[0].principal_id
 
-  key_permissions    = ["get", "create", "list", "restore", "recover", "unwrapkey", "wrapkey", "purge", "encrypt", "decrypt", "sign", "verify"]
-  secret_permissions = ["get"]
+  key_permissions    = ["Get", "Create", "List", "Restore", "Recover", "UnwrapKey", "WrapKey", "Purge", "Encrypt", "Decrypt", "Sign", "Verify"]
+  secret_permissions = ["Get", "List"]
 }
 
 resource "azurerm_key_vault_access_policy" "client" {
@@ -93,18 +93,19 @@ resource "azurerm_key_vault_access_policy" "client" {
   tenant_id    = data.azurerm_client_config.current.tenant_id
   object_id    = data.azurerm_client_config.current.object_id
 
-  key_permissions    = ["get", "create", "delete", "list", "restore", "recover", "unwrapkey", "wrapkey", "purge", "encrypt", "decrypt", "sign", "verify"]
-  secret_permissions = ["set", "get", "delete", "purge", "recover"]
+  key_permissions    = ["Get", "Create","Delete", "List", "Restore", "Recover", "UnwrapKey", "WrapKey", "Purge", "Encrypt", "Decrypt", "Sign", "Verify"]
+  secret_permissions = ["Set", "Get", "Delete", "Purge", "Recover"]
 }
 
 resource "azurerm_key_vault_secret" "sakey1" {
-  name         = var.storage_account_name
+  name         = join("-", [azurerm_storage_account.sa.name, "sa"])
   value        = data.azurerm_storage_account.sa.primary_access_key
   key_vault_id = azurerm_key_vault.kv.id
 
   depends_on = [
     azurerm_key_vault_access_policy.client,
     azurerm_key_vault_access_policy.storage,
+    azurerm_storage_account.sa
   ]
 }
 
@@ -190,13 +191,14 @@ data "azurerm_eventhub_authorization_rule" "ehar" {
 
 //Add EH connstr in the KeyVault
 resource "azurerm_key_vault_secret" "ehkey1" {
-  name         = azurerm_eventhub.eh.name
+  name         = join("-", [azurerm_eventhub.eh.name, "eh"])
   value        = data.azurerm_eventhub_authorization_rule.ehar.primary_connection_string
   key_vault_id = azurerm_key_vault.kv.id
 
   depends_on = [
     azurerm_key_vault_access_policy.client,
     azurerm_key_vault_access_policy.storage,
+    azurerm_eventhub.eh
   ]
 }
 
@@ -226,10 +228,71 @@ resource "azurerm_mssql_database" "azsqldb" {
   //license_type          = "LicenseIncluded"
   max_size_gb           = 2
   sku_name              = "Basic"
-  storage_account_type  = "LRS"
+  storage_account_type  = "Local"
 
   tags = {
     environment = "PoC"
   }
 
+}
+
+resource "azurerm_mssql_firewall_rule" "azdbfw" {
+  name             = "FirewallRuleAzureServices"
+  server_id        = azurerm_mssql_server.azsqlserver.id
+  start_ip_address = "0.0.0.0"
+  end_ip_address   = "0.0.0.0"
+
+    depends_on = [
+    azurerm_mssql_server.azsqlserver
+  ]
+}
+
+resource "azurerm_key_vault_secret" "azsqldbconnstr" {
+  name         = join("-", [azurerm_mssql_database.azsqldb.name, "connstr"])
+  value        = "Server=tcp:${azurerm_mssql_server.azsqlserver.fully_qualified_domain_name},1433;Initial Catalog=${azurerm_mssql_database.azsqldb.name};Persist Security Info=False;User ID=${azurerm_mssql_server.azsqlserver.administrator_login};Password=${azurerm_mssql_server.azsqlserver.administrator_login_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  key_vault_id = azurerm_key_vault.kv.id
+
+  depends_on = [
+    azurerm_key_vault_access_policy.client,
+    azurerm_key_vault_access_policy.storage,
+    azurerm_mssql_database.azsqldb
+  ]
+}
+
+resource "azurerm_key_vault_secret" "azsqldbjdbc" {
+  name         = join("-", [azurerm_mssql_database.azsqldb.name, "jdbc"])
+  value        = "jdbc:sqlserver://${azurerm_mssql_server.azsqlserver.fully_qualified_domain_name}:1433;database=${azurerm_mssql_database.azsqldb.name};user=${azurerm_mssql_server.azsqlserver.administrator_login}@${azurerm_mssql_server.azsqlserver.name};password=${azurerm_mssql_server.azsqlserver.administrator_login_password};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;"
+  key_vault_id = azurerm_key_vault.kv.id
+
+  depends_on = [
+    azurerm_key_vault_access_policy.client,
+    azurerm_key_vault_access_policy.storage,
+    azurerm_mssql_database.azsqldb
+  ]
+}
+
+// Data Factory
+resource "azurerm_data_factory" "adf" {
+  name                = join("", [var.adf_name,random_string.strapp.result])
+  location            = azurerm_resource_group.rg.location
+  resource_group_name = azurerm_resource_group.rg.name
+
+  identity {
+    type = "SystemAssigned"
+  }
+
+  tags = {
+    environment = "PoC"
+  }
+}
+resource "azurerm_key_vault_access_policy" "adfap" {
+  key_vault_id = azurerm_key_vault.kv.id
+  tenant_id    = azurerm_data_factory.adf.identity[0].tenant_id
+  object_id    = azurerm_data_factory.adf.identity[0].principal_id
+
+  secret_permissions = ["List", "Get"]
+
+  depends_on = [
+    azurerm_data_factory.adf
+  ]
 }

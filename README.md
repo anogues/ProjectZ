@@ -24,7 +24,7 @@ TOOLS:
     + ADLS gen2 powered Storage Account
     + Databricks Workspace
     + EventHub Namespace and an EvenHub
-    + DataFactory (in progress)
+    + DataFactory
     + Azure SQL DB
     + Azure DevOps workspace (future)
 * Access to the azure portal to configure manually the secret scope (see known issues and limitations)

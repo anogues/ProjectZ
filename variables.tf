@@ -57,3 +57,8 @@ variable "azuresqldb_name" {
     default = "albertnoguescom"
     description = "Azure SQL Database Name"
 }
+
+variable "adf_name" {
+    default = "albertnoguescom"
+    description = "Main DataFactory Name"
+}
