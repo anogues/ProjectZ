@@ -1,0 +1,1773 @@
+{"AirportCode":"ZVH","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"ZVJ","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"XNB","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"ZSB","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"WTB","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"ZWE","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"ZYR","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"JJD","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"YYG","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"XDS","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"ZWS","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"QDU","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"QYG","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"CFK","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"XER","CountryName":"France","Region":"Europe"}
+{"AirportCode":"XYD","CountryName":"France","Region":"Europe"}
+{"AirportCode":"XDB","CountryName":"France","Region":"Europe"}
+{"AirportCode":"XWG","CountryName":"France","Region":"Europe"}
+{"AirportCode":"VLY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"BWX","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"KNO","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"ETM","CountryName":"Israel","Region":"Asia"}
+{"AirportCode":"RDP","CountryName":"India","Region":"Asia"}
+{"AirportCode":"NYU","CountryName":"Myanmar (Burma)","Region":"Asia"}
+{"AirportCode":"QNQ","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"QRH","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"ZYA","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"OHS","CountryName":"Oman","Region":"Asia"}
+{"AirportCode":"DMS","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"DSS","CountryName":"Senegal","Region":"Africa"}
+{"AirportCode":"NKT","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ISL","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"KZR","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"OGU","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"OUA","CountryName":"Burkina Faso","Region":"Africa"}
+{"AirportCode":"BOY","CountryName":"Burkina Faso","Region":"Africa"}
+{"AirportCode":"BGG","CountryName":"Ivory Coast","Region":"Africa"}
+{"AirportCode":"ABJ","CountryName":"Ivory Coast","Region":"Africa"}
+{"AirportCode":"TML","CountryName":"Ghana","Region":"Africa"}
+{"AirportCode":"ACC","CountryName":"Ghana","Region":"Africa"}
+{"AirportCode":"KMS","CountryName":"Ghana","Region":"Africa"}
+{"AirportCode":"BJL","CountryName":"The Gambia","Region":"Africa"}
+{"AirportCode":"CKY","CountryName":"Guinea","Region":"Africa"}
+{"AirportCode":"OXB","CountryName":"Guinea-Bissau","Region":"Africa"}
+{"AirportCode":"RKV","CountryName":"Iceland","Region":"Europe"}
+{"AirportCode":"KEF","CountryName":"Iceland","Region":"Europe"}
+{"AirportCode":"ROB","CountryName":"Liberia","Region":"Africa"}
+{"AirportCode":"BKO","CountryName":"Mali","Region":"Africa"}
+{"AirportCode":"OUZ","CountryName":"Mauritania","Region":"Africa"}
+{"AirportCode":"NDB","CountryName":"Mauritania","Region":"Africa"}
+{"AirportCode":"NKC","CountryName":"Mauritania","Region":"Africa"}
+{"AirportCode":"TER","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"FLW","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"PIX","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"HOR","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"SMA","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"PDL","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"FNA","CountryName":"Sierra Leone","Region":"Africa"}
+{"AirportCode":"ZIG","CountryName":"Senegal","Region":"Africa"}
+{"AirportCode":"TMS","CountryName":"São Tomé and Príncipe","Region":"Africa"}
+{"AirportCode":"LFW","CountryName":"Togo","Region":"Africa"}
+{"AirportCode":"CBT","CountryName":"Angola","Region":"Africa"}
+{"AirportCode":"LAD","CountryName":"Angola","Region":"Africa"}
+{"AirportCode":"COO","CountryName":"Benin","Region":"Africa"}
+{"AirportCode":"FIH","CountryName":"Democratic Republic of the Congo","Region":"Africa"}
+{"AirportCode":"BGF","CountryName":"Central African Republic","Region":"Africa"}
+{"AirportCode":"BEM","CountryName":"Central African Republic","Region":"Africa"}
+{"AirportCode":"BZV","CountryName":"Republic of the Congo","Region":"Africa"}
+{"AirportCode":"PNR","CountryName":"Republic of the Congo","Region":"Africa"}
+{"AirportCode":"NSI","CountryName":"Cameroon","Region":"Africa"}
+{"AirportCode":"DLA","CountryName":"Cameroon","Region":"Africa"}
+{"AirportCode":"CZL","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"ALG","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"TIN","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"BLJ","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"QSF","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"ORN","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"AAE","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"BJA","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"TLM","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"BSK","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"GJL","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"CBH","CountryName":"Algeria","Region":"Africa"}
+{"AirportCode":"EUN","CountryName":"Western Sahara","Region":"Africa"}
+{"AirportCode":"VIL","CountryName":"Western Sahara","Region":"Africa"}
+{"AirportCode":"VDE","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"FUE","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"TFS","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"TFN","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"SPC","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"ACE","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"LPA","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"GMZ","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"FAE","CountryName":"Faroe Islands","Region":"Europe"}
+{"AirportCode":"LBV","CountryName":"Gabon","Region":"Africa"}
+{"AirportCode":"LCY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LBA","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"SEN","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"EDI","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LSI","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"MAN","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"GLA","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"BFS","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LTN","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LHR","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LDY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"SOU","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"EMA","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"BRS","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"DSA","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"BHX","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"INV","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"NQY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"HUY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"CWL","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"KOI","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"BHD","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LPL","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"SYY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"ILY","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"NWI","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"STN","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"EXT","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"MME","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"WIC","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"LGW","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"ABZ","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"NCL","CountryName":"United Kingdom","Region":"Europe"}
+{"AirportCode":"ACI","CountryName":"Guernsey","Region":"Europe"}
+{"AirportCode":"GCI","CountryName":"Guernsey","Region":"Europe"}
+{"AirportCode":"BSG","CountryName":"Equatorial Guinea","Region":"Africa"}
+{"AirportCode":"SSG","CountryName":"Equatorial Guinea","Region":"Africa"}
+{"AirportCode":"DUB","CountryName":"Republic of Ireland","Region":"Europe"}
+{"AirportCode":"KIR","CountryName":"Republic of Ireland","Region":"Europe"}
+{"AirportCode":"SNN","CountryName":"Republic of Ireland","Region":"Europe"}
+{"AirportCode":"ORK","CountryName":"Republic of Ireland","Region":"Europe"}
+{"AirportCode":"NOC","CountryName":"Republic of Ireland","Region":"Europe"}
+{"AirportCode":"IOM","CountryName":"Isle of Man","Region":"Europe"}
+{"AirportCode":"JER","CountryName":"Jersey","Region":"Europe"}
+{"AirportCode":"RAK","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"TNG","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"ESU","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"RBA","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"TTU","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"ERH","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"OUD","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"CMN","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"FEZ","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"NDR","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"OZZ","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"AHU","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"AGA","CountryName":"Morocco","Region":"Africa"}
+{"AirportCode":"WVB","CountryName":"Namibia","Region":"Africa"}
+{"AirportCode":"WDH","CountryName":"Namibia","Region":"Africa"}
+{"AirportCode":"NIM","CountryName":"Niger","Region":"Africa"}
+{"AirportCode":"BNI","CountryName":"Nigeria","Region":"Africa"}
+{"AirportCode":"LOS","CountryName":"Nigeria","Region":"Africa"}
+{"AirportCode":"PHC","CountryName":"Nigeria","Region":"Africa"}
+{"AirportCode":"ABV","CountryName":"Nigeria","Region":"Africa"}
+{"AirportCode":"ENU","CountryName":"Nigeria","Region":"Africa"}
+{"AirportCode":"KAN","CountryName":"Nigeria","Region":"Africa"}
+{"AirportCode":"PXO","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"LIS","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"FAO","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"OPO","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"FNC","CountryName":"Portugal","Region":"Europe"}
+{"AirportCode":"NDJ","CountryName":"Chad","Region":"Africa"}
+{"AirportCode":"DJE","CountryName":"Tunisia","Region":"Africa"}
+{"AirportCode":"NBE","CountryName":"Tunisia","Region":"Africa"}
+{"AirportCode":"SFA","CountryName":"Tunisia","Region":"Africa"}
+{"AirportCode":"TOE","CountryName":"Tunisia","Region":"Africa"}
+{"AirportCode":"MIR","CountryName":"Tunisia","Region":"Africa"}
+{"AirportCode":"TUN","CountryName":"Tunisia","Region":"Africa"}
+{"AirportCode":"TIA","CountryName":"Albania","Region":"Europe"}
+{"AirportCode":"LNZ","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"GRZ","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"KLU","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"VIE","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"SZG","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"INN","CountryName":"Austria","Region":"Europe"}
+{"AirportCode":"BNX","CountryName":"Bosnia and Herzegovina","Region":"Europe"}
+{"AirportCode":"TZL","CountryName":"Bosnia and Herzegovina","Region":"Europe"}
+{"AirportCode":"OMO","CountryName":"Bosnia and Herzegovina","Region":"Europe"}
+{"AirportCode":"SJJ","CountryName":"Bosnia and Herzegovina","Region":"Europe"}
+{"AirportCode":"OST","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"LGG","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"CRL","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"BRU","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"ANR","CountryName":"Belgium","Region":"Europe"}
+{"AirportCode":"BJM","CountryName":"Burundi","Region":"Africa"}
+{"AirportCode":"MUB","CountryName":"Botswana","Region":"Africa"}
+{"AirportCode":"GBE","CountryName":"Botswana","Region":"Africa"}
+{"AirportCode":"BBK","CountryName":"Botswana","Region":"Africa"}
+{"AirportCode":"FBM","CountryName":"Democratic Republic of the Congo","Region":"Africa"}
+{"AirportCode":"GOM","CountryName":"Democratic Republic of the Congo","Region":"Africa"}
+{"AirportCode":"GVA","CountryName":"Switzerland","Region":"Europe"}
+{"AirportCode":"ZRH","CountryName":"Switzerland","Region":"Europe"}
+{"AirportCode":"LUG","CountryName":"Switzerland","Region":"Europe"}
+{"AirportCode":"PRG","CountryName":"Czech Republic","Region":"Europe"}
+{"AirportCode":"OSR","CountryName":"Czech Republic","Region":"Europe"}
+{"AirportCode":"BRQ","CountryName":"Czech Republic","Region":"Europe"}
+{"AirportCode":"PAD","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"LEJ","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"NRN","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"SXF","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"DUS","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"HAM","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"RLG","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"FKB","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"FMM","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"DRS","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"FDH","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"MUC","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"SCN","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"DTM","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"FRA","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"STR","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"NUE","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"CGN","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"GWT","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"HHN","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"HAJ","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"FMO","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"TXL","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"BRE","CountryName":"Germany","Region":"Europe"}
+{"AirportCode":"AAR","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"AAL","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"BLL","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"KRP","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"SGD","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"CPH","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"RNN","CountryName":"Denmark","Region":"Europe"}
+{"AirportCode":"HBE","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"ABS","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"ASW","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"SSH","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"HRG","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"CAI","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"HMB","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"LXR","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"VLC","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"SCQ","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"PMI","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"LCG","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"MLN","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"AGP","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"SDR","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"OVD","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"GRX","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"MAD","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"XRY","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"CDT","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"VGO","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"BCN","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"MAH","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"EAS","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"ZAZ","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"GRO","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"BIO","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"PNA","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"SVQ","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"BJZ","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"ALC","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"IBZ","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"REU","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"LEI","CountryName":"Spain","Region":"Europe"}
+{"AirportCode":"PUF","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BIA","CountryName":"France","Region":"Europe"}
+{"AirportCode":"ETZ","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BZR","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BVE","CountryName":"France","Region":"Europe"}
+{"AirportCode":"MPL","CountryName":"France","Region":"Europe"}
+{"AirportCode":"CLY","CountryName":"France","Region":"Europe"}
+{"AirportCode":"CMF","CountryName":"France","Region":"Europe"}
+{"AirportCode":"MRS","CountryName":"France","Region":"Europe"}
+{"AirportCode":"NCE","CountryName":"France","Region":"Europe"}
+{"AirportCode":"LIG","CountryName":"France","Region":"Europe"}
+{"AirportCode":"EGC","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BVA","CountryName":"France","Region":"Europe"}
+{"AirportCode":"GNB","CountryName":"France","Region":"Europe"}
+{"AirportCode":"CCF","CountryName":"France","Region":"Europe"}
+{"AirportCode":"PGF","CountryName":"France","Region":"Europe"}
+{"AirportCode":"TLS","CountryName":"France","Region":"Europe"}
+{"AirportCode":"MLH","CountryName":"France","Region":"Europe"}
+{"AirportCode":"FSC","CountryName":"France","Region":"Europe"}
+{"AirportCode":"RNS","CountryName":"France","Region":"Europe"}
+{"AirportCode":"NTE","CountryName":"France","Region":"Europe"}
+{"AirportCode":"SXB","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BIQ","CountryName":"France","Region":"Europe"}
+{"AirportCode":"FNI","CountryName":"France","Region":"Europe"}
+{"AirportCode":"AJA","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BSL","CountryName":"France","Region":"Europe"}
+{"AirportCode":"LRH","CountryName":"France","Region":"Europe"}
+{"AirportCode":"LDE","CountryName":"France","Region":"Europe"}
+{"AirportCode":"URO","CountryName":"France","Region":"Europe"}
+{"AirportCode":"CDG","CountryName":"France","Region":"Europe"}
+{"AirportCode":"LIL","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BES","CountryName":"France","Region":"Europe"}
+{"AirportCode":"ORY","CountryName":"France","Region":"Europe"}
+{"AirportCode":"BOD","CountryName":"France","Region":"Europe"}
+{"AirportCode":"CFE","CountryName":"France","Region":"Europe"}
+{"AirportCode":"LYS","CountryName":"France","Region":"Europe"}
+{"AirportCode":"LRT","CountryName":"France","Region":"Europe"}
+{"AirportCode":"TLN","CountryName":"France","Region":"Europe"}
+{"AirportCode":"GIB","CountryName":"Gibraltar","Region":"Europe"}
+{"AirportCode":"PUY","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"ZAD","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"SPU","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"RJK","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"BWK","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"DBV","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"ZAG","CountryName":"Croatia","Region":"Europe"}
+{"AirportCode":"BUD","CountryName":"Hungary","Region":"Europe"}
+{"AirportCode":"DEB","CountryName":"Hungary","Region":"Europe"}
+{"AirportCode":"CIA","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"CAG","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"BDS","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"GOA","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"AHO","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"MXP","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"CIY","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"TRN","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"BRI","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"OLB","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"PNL","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"CTA","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"BLQ","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"LMP","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"PMF","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"PMO","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"SUF","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"AOI","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"BGY","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"FLR","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"TSF","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"TPS","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"FCO","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"PEG","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"VCE","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"VRN","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"PSR","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"NAP","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"PSA","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"REG","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"LIN","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"TRS","CountryName":"Italy","Region":"Europe"}
+{"AirportCode":"MSU","CountryName":"Lesotho","Region":"Africa"}
+{"AirportCode":"LUX","CountryName":"Luxembourg","Region":"Europe"}
+{"AirportCode":"TIV","CountryName":"Montenegro","Region":"Europe"}
+{"AirportCode":"TGD","CountryName":"Montenegro","Region":"Europe"}
+{"AirportCode":"OHD","CountryName":"Republic of Macedonia","Region":"Europe"}
+{"AirportCode":"SKP","CountryName":"Republic of Macedonia","Region":"Europe"}
+{"AirportCode":"MLA","CountryName":"Malta","Region":"Europe"}
+{"AirportCode":"LLW","CountryName":"Malawi","Region":"Africa"}
+{"AirportCode":"BLZ","CountryName":"Malawi","Region":"Africa"}
+{"AirportCode":"APL","CountryName":"Mozambique","Region":"Africa"}
+{"AirportCode":"BEW","CountryName":"Mozambique","Region":"Africa"}
+{"AirportCode":"VNX","CountryName":"Mozambique","Region":"Africa"}
+{"AirportCode":"POL","CountryName":"Mozambique","Region":"Africa"}
+{"AirportCode":"MPM","CountryName":"Mozambique","Region":"Africa"}
+{"AirportCode":"AMS","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"EIN","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"MST","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"GRQ","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"RTM","CountryName":"Netherlands","Region":"Europe"}
+{"AirportCode":"SOG","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"KSU","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"ALF","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"HVG","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"MQN","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"KKN","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"HAU","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"TOS","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"BGO","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"MOL","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"OSL","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"BOO","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"AES","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"SVG","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"BNN","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"OSY","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"TRF","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"FRO","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"EVE","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"TRD","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"HOV","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"LYR","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"SVJ","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"KRS","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"SSJ","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"LKN","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"SOJ","CountryName":"Norway","Region":"Europe"}
+{"AirportCode":"POZ","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"KTW","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"GDN","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"SZY","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"WMI","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"BZG","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"WAW","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"SZZ","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"KRK","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"LUZ","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"WRO","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"RZE","CountryName":"Poland","Region":"Europe"}
+{"AirportCode":"BEG","CountryName":"Serbia","Region":"Europe"}
+{"AirportCode":"INI","CountryName":"Serbia","Region":"Europe"}
+{"AirportCode":"KGD","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KGL","CountryName":"Rwanda","Region":"Africa"}
+{"AirportCode":"KME","CountryName":"Rwanda","Region":"Africa"}
+{"AirportCode":"AJR","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"LPI","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"GOT","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"VBY","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"BMA","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"UME","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"SDL","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"MMX","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"KLR","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"KRN","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"ARN","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"OSD","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"VXO","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"OER","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"LLA","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"NRK","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"SFT","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"NYO","CountryName":"Sweden","Region":"Europe"}
+{"AirportCode":"LJU","CountryName":"Slovenia","Region":"Europe"}
+{"AirportCode":"BTS","CountryName":"Slovakia","Region":"Europe"}
+{"AirportCode":"KSC","CountryName":"Slovakia","Region":"Europe"}
+{"AirportCode":"PRN","CountryName":"Republic of Kosovo","Region":"Europe"}
+{"AirportCode":"ELS","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"UTT","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"DUR","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"HDS","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"UTN","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"KIM","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"JNB","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"RCB","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"BFN","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"HLA","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"SZK","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"MQP","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"PTG","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"PHW","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"GRJ","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"CPT","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"PZB","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"PLZ","CountryName":"South Africa","Region":"Africa"}
+{"AirportCode":"LUN","CountryName":"Zambia","Region":"Africa"}
+{"AirportCode":"LVI","CountryName":"Zambia","Region":"Africa"}
+{"AirportCode":"NLA","CountryName":"Zambia","Region":"Africa"}
+{"AirportCode":"SLI","CountryName":"Zambia","Region":"Africa"}
+{"AirportCode":"BUQ","CountryName":"Zimbabwe","Region":"Africa"}
+{"AirportCode":"HRE","CountryName":"Zimbabwe","Region":"Africa"}
+{"AirportCode":"VFA","CountryName":"Zimbabwe","Region":"Africa"}
+{"AirportCode":"BOJ","CountryName":"Bulgaria","Region":"Europe"}
+{"AirportCode":"SOF","CountryName":"Bulgaria","Region":"Europe"}
+{"AirportCode":"VAR","CountryName":"Bulgaria","Region":"Europe"}
+{"AirportCode":"BAH","CountryName":"Bahrain","Region":"Asia"}
+{"AirportCode":"MSQ","CountryName":"Belarus","Region":"Europe"}
+{"AirportCode":"LCA","CountryName":"Cyprus","Region":"Europe"}
+{"AirportCode":"ECN","CountryName":"Cyprus","Region":"Europe"}
+{"AirportCode":"PFO","CountryName":"Cyprus","Region":"Europe"}
+{"AirportCode":"JIB","CountryName":"Djibouti","Region":"Africa"}
+{"AirportCode":"TLL","CountryName":"Estonia","Region":"Europe"}
+{"AirportCode":"TAY","CountryName":"Estonia","Region":"Europe"}
+{"AirportCode":"RMF","CountryName":"Egypt","Region":"Africa"}
+{"AirportCode":"ASM","CountryName":"Eritrea","Region":"Africa"}
+{"AirportCode":"GDQ","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"JIJ","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"AXU","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"MQX","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"LLI","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"BJR","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"DIR","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"ADD","CountryName":"Ethiopia","Region":"Africa"}
+{"AirportCode":"KEM","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"OUL","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"JYV","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"TMP","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"TKU","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"KUO","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"MHQ","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"KAO","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"KTT","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"KAJ","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"VAA","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"RVN","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"HEL","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"IVL","CountryName":"Finland","Region":"Europe"}
+{"AirportCode":"HER","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"KVA","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"PVK","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"RHO","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"AXD","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"ZTH","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"EFL","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"JMK","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"JIK","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"JNX","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"SKG","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"CFU","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"KGS","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"JKH","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"KLX","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"ATH","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"JTR","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"JSI","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"MJT","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"SMI","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"AOK","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"PAS","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"MLO","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"LXS","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"CHQ","CountryName":"Greece","Region":"Europe"}
+{"AirportCode":"VDA","CountryName":"Israel","Region":"Asia"}
+{"AirportCode":"TLV","CountryName":"Israel","Region":"Asia"}
+{"AirportCode":"SDV","CountryName":"Israel","Region":"Asia"}
+{"AirportCode":"EBL","CountryName":"Iraq","Region":"Asia"}
+{"AirportCode":"NJF","CountryName":"Iraq","Region":"Asia"}
+{"AirportCode":"BGW","CountryName":"Iraq","Region":"Asia"}
+{"AirportCode":"ISU","CountryName":"Iraq","Region":"Asia"}
+{"AirportCode":"BSR","CountryName":"Iraq","Region":"Asia"}
+{"AirportCode":"AQJ","CountryName":"Jordan","Region":"Asia"}
+{"AirportCode":"AMM","CountryName":"Jordan","Region":"Asia"}
+{"AirportCode":"WIL","CountryName":"Kenya","Region":"Africa"}
+{"AirportCode":"MBA","CountryName":"Kenya","Region":"Africa"}
+{"AirportCode":"MYD","CountryName":"Kenya","Region":"Africa"}
+{"AirportCode":"NBO","CountryName":"Kenya","Region":"Africa"}
+{"AirportCode":"KIS","CountryName":"Kenya","Region":"Africa"}
+{"AirportCode":"LAU","CountryName":"Kenya","Region":"Africa"}
+{"AirportCode":"AJN","CountryName":"Comoros","Region":"Africa"}
+{"AirportCode":"HAH","CountryName":"Comoros","Region":"Africa"}
+{"AirportCode":"KWI","CountryName":"Kuwait","Region":"Asia"}
+{"AirportCode":"BEY","CountryName":"Lebanon","Region":"Asia"}
+{"AirportCode":"KUN","CountryName":"Lithuania","Region":"Europe"}
+{"AirportCode":"VNO","CountryName":"Lithuania","Region":"Europe"}
+{"AirportCode":"PLQ","CountryName":"Lithuania","Region":"Europe"}
+{"AirportCode":"RIX","CountryName":"Latvia","Region":"Europe"}
+{"AirportCode":"KIV","CountryName":"Moldova","Region":"Europe"}
+{"AirportCode":"TMM","CountryName":"Madagascar","Region":"Africa"}
+{"AirportCode":"TNR","CountryName":"Madagascar","Region":"Africa"}
+{"AirportCode":"DIE","CountryName":"Madagascar","Region":"Africa"}
+{"AirportCode":"TLE","CountryName":"Madagascar","Region":"Africa"}
+{"AirportCode":"FTU","CountryName":"Madagascar","Region":"Africa"}
+{"AirportCode":"NOS","CountryName":"Madagascar","Region":"Africa"}
+{"AirportCode":"DOH","CountryName":"Qatar","Region":"Asia"}
+{"AirportCode":"SUJ","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"TSR","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"SBZ","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"BAY","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"BCM","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"CND","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"OTP","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"CLJ","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"TGM","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"OMR","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"IAS","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"SCV","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"CRA","CountryName":"Romania","Region":"Europe"}
+{"AirportCode":"ROV","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"RTW","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"GRV","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SVO","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"STW","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"NBC","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SKX","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"EGO","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"ASF","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"VKO","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SCW","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"PEZ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"NAL","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"AER","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"GDZ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"BZK","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"VOG","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"MCX","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"LED","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"GOJ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KZN","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"CSY","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"MMK","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"ZIA","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"AAQ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"OGZ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KVX","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"MRV","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KRR","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"DME","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"ARH","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"VOZ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"URY","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"HAS","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"GIZ","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"TIF","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"WAE","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"BHH","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"AQI","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"AJF","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"DWD","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"AHB","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"RAE","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"YNB","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"TUU","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"JED","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"ABT","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"RUH","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"MED","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"SHW","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"ELQ","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"HOF","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"DMM","CountryName":"Saudi Arabia","Region":"Asia"}
+{"AirportCode":"KRT","CountryName":"Sudan","Region":"Africa"}
+{"AirportCode":"HGA","CountryName":"Somalia","Region":"Africa"}
+{"AirportCode":"MGQ","CountryName":"Somalia","Region":"Africa"}
+{"AirportCode":"JUB","CountryName":"South Sudan","Region":"Africa"}
+{"AirportCode":"MQM","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ADF","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"DNZ","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"SAW","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"BAL","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ESB","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"MLX","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ADA","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"DIY","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ADB","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ERZ","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"EZS","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"KSY","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"GZP","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"EDO","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"VAS","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"BJV","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"SZF","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"MZH","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"TZX","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"NAV","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"VAN","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"KCM","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"KYA","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"GZT","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ASR","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"IST","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"DLM","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"GNY","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"ERC","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"AYT","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"HTY","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"MSR","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"SEU","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"ARK","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"DAR","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"JRO","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"ZNZ","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"MWZ","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"DOD","CountryName":"Tanzania","Region":"Africa"}
+{"AirportCode":"VIN","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"SIP","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"CWC","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"DNK","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"KHE","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"OZH","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"HRK","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"ODS","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"KBP","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"IEV","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"IFO","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"LWO","CountryName":"Ukraine","Region":"Europe"}
+{"AirportCode":"EBB","CountryName":"Uganda","Region":"Africa"}
+{"AirportCode":"DZA","CountryName":"Mayotte","Region":"Africa"}
+{"AirportCode":"DWC","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"AAN","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"SHJ","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"DXB","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"AUH","CountryName":"United Arab Emirates","Region":"Asia"}
+{"AirportCode":"EVN","CountryName":"Armenia","Region":"Asia"}
+{"AirportCode":"KUT","CountryName":"Georgia","Region":"Asia"}
+{"AirportCode":"BUS","CountryName":"Georgia","Region":"Asia"}
+{"AirportCode":"TBS","CountryName":"Georgia","Region":"Asia"}
+{"AirportCode":"RRG","CountryName":"Mauritius","Region":"Africa"}
+{"AirportCode":"MRU","CountryName":"Mauritius","Region":"Africa"}
+{"AirportCode":"SLL","CountryName":"Oman","Region":"Asia"}
+{"AirportCode":"MCT","CountryName":"Oman","Region":"Asia"}
+{"AirportCode":"RUN","CountryName":"Réunion","Region":"Africa"}
+{"AirportCode":"ULV","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KUF","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"IJK","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SEZ","CountryName":"Seychelles","Region":"Africa"}
+{"AirportCode":"PRI","CountryName":"Seychelles","Region":"Africa"}
+{"AirportCode":"IGD","CountryName":"Turkey","Region":"Asia"}
+{"AirportCode":"MZR","CountryName":"Afghanistan","Region":"Asia"}
+{"AirportCode":"KBL","CountryName":"Afghanistan","Region":"Asia"}
+{"AirportCode":"SYZ","CountryName":"Iran","Region":"Asia"}
+{"AirportCode":"IKA","CountryName":"Iran","Region":"Asia"}
+{"AirportCode":"IFN","CountryName":"Iran","Region":"Asia"}
+{"AirportCode":"MHD","CountryName":"Iran","Region":"Asia"}
+{"AirportCode":"TBZ","CountryName":"Iran","Region":"Asia"}
+{"AirportCode":"GYD","CountryName":"Azerbaijan","Region":"Asia"}
+{"AirportCode":"KVD","CountryName":"Azerbaijan","Region":"Asia"}
+{"AirportCode":"SCO","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"URA","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"GUW","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"AKX","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"GAN","CountryName":"Maldives","Region":"Asia"}
+{"AirportCode":"MLE","CountryName":"Maldives","Region":"Asia"}
+{"AirportCode":"UET","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"LYP","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"PEW","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"MUX","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"SKT","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"LHE","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"KHI","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"ISB","CountryName":"Pakistan","Region":"Asia"}
+{"AirportCode":"REN","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"MQF","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"TJM","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SGC","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SVX","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"CEK","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"UFA","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"PEE","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"LBD","CountryName":"Tajikistan","Region":"Asia"}
+{"AirportCode":"DYU","CountryName":"Tajikistan","Region":"Asia"}
+{"AirportCode":"ASB","CountryName":"Turkmenistan","Region":"Asia"}
+{"AirportCode":"SKD","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"TAS","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"UGC","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"TMJ","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"BHK","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"FEG","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"NCU","CountryName":"Uzbekistan","Region":"Asia"}
+{"AirportCode":"JDH","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXP","CountryName":"India","Region":"Asia"}
+{"AirportCode":"DHM","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXE","CountryName":"India","Region":"Asia"}
+{"AirportCode":"GOP","CountryName":"India","Region":"Asia"}
+{"AirportCode":"VNS","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BDQ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"UDR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"DIB","CountryName":"India","Region":"Asia"}
+{"AirportCode":"CJB","CountryName":"India","Region":"Asia"}
+{"AirportCode":"RPR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"HYD","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXB","CountryName":"India","Region":"Asia"}
+{"AirportCode":"JAI","CountryName":"India","Region":"Asia"}
+{"AirportCode":"GAY","CountryName":"India","Region":"Asia"}
+{"AirportCode":"GAU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"HJR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXL","CountryName":"India","Region":"Asia"}
+{"AirportCode":"VGA","CountryName":"India","Region":"Asia"}
+{"AirportCode":"AGR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXA","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXC","CountryName":"India","Region":"Asia"}
+{"AirportCode":"VTZ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"AJL","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"SLV","CountryName":"India","Region":"Asia"}
+{"AirportCode":"DMU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"MAA","CountryName":"India","Region":"Asia"}
+{"AirportCode":"SXR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"DED","CountryName":"India","Region":"Asia"}
+{"AirportCode":"TRV","CountryName":"India","Region":"Asia"}
+{"AirportCode":"ATQ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"NAG","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXM","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXZ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"COK","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXG","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BHO","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BHU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"CCU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"PGH","CountryName":"India","Region":"Asia"}
+{"AirportCode":"CCJ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"TIR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"STV","CountryName":"India","Region":"Asia"}
+{"AirportCode":"RJA","CountryName":"India","Region":"Asia"}
+{"AirportCode":"LKO","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BBI","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IDR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"PNQ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BOM","CountryName":"India","Region":"Asia"}
+{"AirportCode":"KLH","CountryName":"India","Region":"Asia"}
+{"AirportCode":"AMD","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BLR","CountryName":"India","Region":"Asia"}
+{"AirportCode":"MYQ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IMF","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXD","CountryName":"India","Region":"Asia"}
+{"AirportCode":"RAJ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"KNU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"DIU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"GOI","CountryName":"India","Region":"Asia"}
+{"AirportCode":"BHJ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"PAT","CountryName":"India","Region":"Asia"}
+{"AirportCode":"KUU","CountryName":"India","Region":"Asia"}
+{"AirportCode":"AGX","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXY","CountryName":"India","Region":"Asia"}
+{"AirportCode":"DEL","CountryName":"India","Region":"Asia"}
+{"AirportCode":"IXJ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"TRZ","CountryName":"India","Region":"Asia"}
+{"AirportCode":"CMB","CountryName":"Sri Lanka","Region":"Asia"}
+{"AirportCode":"PKR","CountryName":"Nepal","Region":"Asia"}
+{"AirportCode":"KTM","CountryName":"Nepal","Region":"Asia"}
+{"AirportCode":"BHR","CountryName":"Nepal","Region":"Asia"}
+{"AirportCode":"ZYL","CountryName":"Bangladesh","Region":"Asia"}
+{"AirportCode":"DAC","CountryName":"Bangladesh","Region":"Asia"}
+{"AirportCode":"CXB","CountryName":"Bangladesh","Region":"Asia"}
+{"AirportCode":"CGP","CountryName":"Bangladesh","Region":"Asia"}
+{"AirportCode":"URC","CountryName":"China","Region":"Asia"}
+{"AirportCode":"KHG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LZY","CountryName":"China","Region":"Asia"}
+{"AirportCode":"TCZ","CountryName":"China","Region":"Asia"}
+{"AirportCode":"FRU","CountryName":"Kyrgyzstan","Region":"Asia"}
+{"AirportCode":"OSS","CountryName":"Kyrgyzstan","Region":"Asia"}
+{"AirportCode":"KSN","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"CIT","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"KGF","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"TSE","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"ALA","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"PWQ","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"DMB","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"KZO","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"UKK","CountryName":"Kazakhstan","Region":"Asia"}
+{"AirportCode":"OMS","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"TOF","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"OVB","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"BAX","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"LSH","CountryName":"Myanmar","Region":"Asia"}
+{"AirportCode":"SNW","CountryName":"Myanmar","Region":"Asia"}
+{"AirportCode":"NYT","CountryName":"Myanmar","Region":"Asia"}
+{"AirportCode":"RGN","CountryName":"Myanmar","Region":"Asia"}
+{"AirportCode":"MDL","CountryName":"Myanmar","Region":"Asia"}
+{"AirportCode":"HEH","CountryName":"Myanmar","Region":"Asia"}
+{"AirportCode":"SOC","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PKN","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PKU","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"BDO","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"MLG","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"SUB","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"BTJ","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"CGK","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PNK","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PLM","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"TKG","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PKY","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"JOG","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"BTH","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"BKS","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PDG","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"DJB","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PGK","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"SRG","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"REP","CountryName":"Cambodia","Region":"Asia"}
+{"AirportCode":"PNH","CountryName":"Cambodia","Region":"Asia"}
+{"AirportCode":"KOS","CountryName":"Cambodia","Region":"Asia"}
+{"AirportCode":"PKZ","CountryName":"Laos","Region":"Asia"}
+{"AirportCode":"XKH","CountryName":"Laos","Region":"Asia"}
+{"AirportCode":"VTE","CountryName":"Laos","Region":"Asia"}
+{"AirportCode":"ZVK","CountryName":"Laos","Region":"Asia"}
+{"AirportCode":"LXG","CountryName":"Laos","Region":"Asia"}
+{"AirportCode":"LPQ","CountryName":"Laos","Region":"Asia"}
+{"AirportCode":"ABA","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"NOZ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KEJ","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KJA","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KBV","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"TST","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"HGN","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"DMK","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"TDX","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"UTH","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"THS","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"SNO","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"HDY","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"UTP","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"LPT","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"NST","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"NAW","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"HKT","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"CNX","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"UBP","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"KKC","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"MAQ","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"CEI","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"BKK","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"UNN","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"USM","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"URT","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"PHS","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"BFV","CountryName":"Thailand","Region":"Asia"}
+{"AirportCode":"DAD","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"VII","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"HAN","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"VCA","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"UIH","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"VCS","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"HPH","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"CXR","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"VDH","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"HUI","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"PQC","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"DLI","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"SGN","CountryName":"Vietnam","Region":"Asia"}
+{"AirportCode":"KNX","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"KTA","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"LEA","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"PHE","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"GET","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"PER","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"KGI","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"BME","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"PBO","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"BWN","CountryName":"Brunei","Region":"Asia"}
+{"AirportCode":"SZX","CountryName":"China","Region":"Asia"}
+{"AirportCode":"NAO","CountryName":"China","Region":"Asia"}
+{"AirportCode":"PEK","CountryName":"China","Region":"Asia"}
+{"AirportCode":"TAO","CountryName":"China","Region":"Asia"}
+{"AirportCode":"SWA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CKG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"ZUH","CountryName":"China","Region":"Asia"}
+{"AirportCode":"XNN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"DAT","CountryName":"China","Region":"Asia"}
+{"AirportCode":"DLU","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LJG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"NKG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"TYN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"YNJ","CountryName":"China","Region":"Asia"}
+{"AirportCode":"XIC","CountryName":"China","Region":"Asia"}
+{"AirportCode":"KWL","CountryName":"China","Region":"Asia"}
+{"AirportCode":"TSN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"TNA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LXA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"ZHA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CSX","CountryName":"China","Region":"Asia"}
+{"AirportCode":"JJN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"PVG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"XIL","CountryName":"China","Region":"Asia"}
+{"AirportCode":"YIW","CountryName":"China","Region":"Asia"}
+{"AirportCode":"XMN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HFE","CountryName":"China","Region":"Asia"}
+{"AirportCode":"DLC","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HET","CountryName":"China","Region":"Asia"}
+{"AirportCode":"INC","CountryName":"China","Region":"Asia"}
+{"AirportCode":"BAV","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CAN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HGH","CountryName":"China","Region":"Asia"}
+{"AirportCode":"WNZ","CountryName":"China","Region":"Asia"}
+{"AirportCode":"WUH","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CGQ","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LYI","CountryName":"China","Region":"Asia"}
+{"AirportCode":"WUX","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HRB","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LYG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"SHA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"SHE","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CGO","CountryName":"China","Region":"Asia"}
+{"AirportCode":"KWE","CountryName":"China","Region":"Asia"}
+{"AirportCode":"KMG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HAK","CountryName":"China","Region":"Asia"}
+{"AirportCode":"FOC","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HIA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LHW","CountryName":"China","Region":"Asia"}
+{"AirportCode":"NNY","CountryName":"China","Region":"Asia"}
+{"AirportCode":"DIG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"XIY","CountryName":"China","Region":"Asia"}
+{"AirportCode":"KHN","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CZX","CountryName":"China","Region":"Asia"}
+{"AirportCode":"WEH","CountryName":"China","Region":"Asia"}
+{"AirportCode":"LYA","CountryName":"China","Region":"Asia"}
+{"AirportCode":"NNG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"CTU","CountryName":"China","Region":"Asia"}
+{"AirportCode":"DYG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"SYX","CountryName":"China","Region":"Asia"}
+{"AirportCode":"KOW","CountryName":"China","Region":"Asia"}
+{"AirportCode":"MXZ","CountryName":"China","Region":"Asia"}
+{"AirportCode":"NGB","CountryName":"China","Region":"Asia"}
+{"AirportCode":"YNT","CountryName":"China","Region":"Asia"}
+{"AirportCode":"ACX","CountryName":"China","Region":"Asia"}
+{"AirportCode":"MDG","CountryName":"China","Region":"Asia"}
+{"AirportCode":"HKG","CountryName":"Hong Kong","Region":"Asia"}
+{"AirportCode":"KOE","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"ENE","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"PLW","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"TRK","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"LOP","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"MDC","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"LBJ","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"UPG","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"BEJ","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"BPN","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"DPS","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"MFM","CountryName":"Macau","Region":"Asia"}
+{"AirportCode":"AOR","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"TGG","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"KCH","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"LBU","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"LMN","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"MYY","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"KUL","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"BTU","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"PEN","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"MKM","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"IPH","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"SZB","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"KUA","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"BKI","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"SBW","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"LDU","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"SDK","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"MKZ","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"LGK","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"TWU","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"KBR","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"JHB","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"MZV","CountryName":"Malaysia","Region":"Asia"}
+{"AirportCode":"TAC","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"MNL","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"LAO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"DGT","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"CYZ","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"DPL","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"USU","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"RXS","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"CGY","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"PAG","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"MPH","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"LGP","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"KLO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"CEB","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"BXU","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"IAO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"CBO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"BSO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"BCD","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"ILO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"DVO","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"PPS","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"TUG","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"ZAM","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"OZC","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"TAG","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"CRM","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"CRK","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"IKT","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"UUD","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"SIN","CountryName":"Singapore","Region":"Asia"}
+{"AirportCode":"XSP","CountryName":"Singapore","Region":"Asia"}
+{"AirportCode":"MZG","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"TTT","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"RMQ","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"KNH","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"KHH","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"HUN","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"TSA","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"TPE","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"TNN","CountryName":"Taiwan","Region":"Asia"}
+{"AirportCode":"SOQ","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"DJJ","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"AMQ","CountryName":"Indonesia","Region":"Asia"}
+{"AirportCode":"ISG","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"HIJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"NRT","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"HND","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"TKS","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"FKS","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"MMB","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"AXT","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"HKD","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"SYO","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"MSJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"GAJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"ASJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"YGJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KUH","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"TSJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"AOJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"NGO","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KIJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"FUK","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"CTS","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"WKJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"ITM","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"SDJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"OKA","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"HAC","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KIX","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"HSG","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"NGS","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"OKD","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"HNA","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"NKM","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"SHB","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"MMY","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"AKJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"SHM","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"FSZ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KKJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"FUJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KMQ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"UBJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KOJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KCZ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"UKB","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"OIT","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"TAK","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"TOY","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KMI","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"ONJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"MYJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"KMJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"OKJ","CountryName":"Japan","Region":"Asia"}
+{"AirportCode":"GMP","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"CJJ","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"TAE","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"PUS","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"CJU","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"SHO","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"ICN","CountryName":"South Korea","Region":"Asia"}
+{"AirportCode":"MXV","CountryName":"Mongolia","Region":"Asia"}
+{"AirportCode":"ULN","CountryName":"Mongolia","Region":"Asia"}
+{"AirportCode":"GES","CountryName":"Philippines","Region":"Asia"}
+{"AirportCode":"ROR","CountryName":"Palau","Region":"Oceania"}
+{"AirportCode":"BQS","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"CNN","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"YKS","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"DIL","CountryName":"East Timor","Region":"Asia"}
+{"AirportCode":"ASP","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"KGC","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"DRW","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"ADL","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"PLO","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"AYQ","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"SID","CountryName":"Cape Verde","Region":"Africa"}
+{"AirportCode":"RAI","CountryName":"Cape Verde","Region":"Africa"}
+{"AirportCode":"VXE","CountryName":"Cape Verde","Region":"Africa"}
+{"AirportCode":"FEN","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"AJU","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"GOH","CountryName":"Greenland","Region":"Americas"}
+{"AirportCode":"JAV","CountryName":"Greenland","Region":"Americas"}
+{"AirportCode":"SFJ","CountryName":"Greenland","Region":"Americas"}
+{"AirportCode":"JHS","CountryName":"Greenland","Region":"Americas"}
+{"AirportCode":"UAK","CountryName":"Greenland","Region":"Americas"}
+{"AirportCode":"YQX","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YDF","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YYT","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"USH","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"FTE","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"IGR","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"RGL","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"COR","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"ROS","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"LUQ","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"SDE","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"CRD","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"RSA","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"JUJ","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"SFN","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"MDZ","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"CPC","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"EPA","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"PMY","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"EZE","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"REL","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"AEP","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"PSS","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"NQN","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"MDQ","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"SLA","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"EQS","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"BRC","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"TUC","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"UAQ","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"BHI","CountryName":"Argentina","Region":"Americas"}
+{"AirportCode":"BDA","CountryName":"Bermuda","Region":"Americas"}
+{"AirportCode":"GRU","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"SJP","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"GYN","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"IGU","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"BPS","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"BSB","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"IMP","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"FOR","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"UBA","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"JPA","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MAB","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"VIX","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"CXJ","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MCZ","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"NVT","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"BEL","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"IPN","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MOC","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"SDU","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"LDB","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"FLN","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"SLZ","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MGF","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"NAT","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"VCP","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"UDI","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"GIG","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"XAP","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"GVR","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"CNF","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"SSA","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"REC","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"POA","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"JDO","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"PMW","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"CWB","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"IOS","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MCP","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"CGH","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"YHZ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQM","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQY","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YFC","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"ZBF","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YWK","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YSJ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"ANF","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"LSC","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"SCL","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"ZOS","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"CJC","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"PMC","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"PNT","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"CCP","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"ARI","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"BBA","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"ZCO","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"PUQ","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"IQQ","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"CAY","CountryName":"French Guiana","Region":"Americas"}
+{"AirportCode":"PBM","CountryName":"Suriname","Region":"Americas"}
+{"AirportCode":"MVD","CountryName":"Uruguay","Region":"Americas"}
+{"AirportCode":"PDP","CountryName":"Uruguay","Region":"Americas"}
+{"AirportCode":"ANU","CountryName":"Antigua and Barbuda","Region":"Americas"}
+{"AirportCode":"AUA","CountryName":"Aruba","Region":"Americas"}
+{"AirportCode":"BGI","CountryName":"Barbados","Region":"Americas"}
+{"AirportCode":"ORU","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"LPB","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"SRE","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"RBQ","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"CBB","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"UYU","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"VVI","CountryName":"Bolivia","Region":"Americas"}
+{"AirportCode":"SAB","CountryName":"Bonaire","Region":"Americas"}
+{"AirportCode":"EUX","CountryName":"Bonaire","Region":"Americas"}
+{"AirportCode":"BON","CountryName":"Bonaire","Region":"Americas"}
+{"AirportCode":"TBT","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MAO","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"PVH","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"CGB","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"STM","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"TFF","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"CGR","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"MHH","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"GGT","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"NAS","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"ELH","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"BIM","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"ZSA","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"FPO","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"RSD","CountryName":"The Bahamas","Region":"Americas"}
+{"AirportCode":"YTZ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YFB","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQB","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YSB","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YOW","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YGK","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXU","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YTS","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQG","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQT","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YUL","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YKF","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YYZ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YAM","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YHM","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YYY","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"VRA","CountryName":"Cuba","Region":"Americas"}
+{"AirportCode":"SCU","CountryName":"Cuba","Region":"Americas"}
+{"AirportCode":"SNU","CountryName":"Cuba","Region":"Americas"}
+{"AirportCode":"CCC","CountryName":"Cuba","Region":"Americas"}
+{"AirportCode":"HOG","CountryName":"Cuba","Region":"Americas"}
+{"AirportCode":"HAV","CountryName":"Cuba","Region":"Americas"}
+{"AirportCode":"CUR","CountryName":"Curaçao","Region":"Americas"}
+{"AirportCode":"STI","CountryName":"Dominican Republic","Region":"Americas"}
+{"AirportCode":"POP","CountryName":"Dominican Republic","Region":"Americas"}
+{"AirportCode":"SDQ","CountryName":"Dominican Republic","Region":"Americas"}
+{"AirportCode":"PUJ","CountryName":"Dominican Republic","Region":"Americas"}
+{"AirportCode":"GND","CountryName":"Grenada","Region":"Americas"}
+{"AirportCode":"PTP","CountryName":"Guadeloupe","Region":"Americas"}
+{"AirportCode":"GEO","CountryName":"Guyana","Region":"Americas"}
+{"AirportCode":"OGL","CountryName":"Guyana","Region":"Americas"}
+{"AirportCode":"CAP","CountryName":"Haiti","Region":"Americas"}
+{"AirportCode":"PAP","CountryName":"Haiti","Region":"Americas"}
+{"AirportCode":"UVF","CountryName":"Saint Lucia","Region":"Americas"}
+{"AirportCode":"SLU","CountryName":"Saint Lucia","Region":"Americas"}
+{"AirportCode":"SFG","CountryName":"Saint Martin","Region":"Americas"}
+{"AirportCode":"FDF","CountryName":"Martinique","Region":"Americas"}
+{"AirportCode":"BQN","CountryName":"Puerto Rico","Region":"Americas"}
+{"AirportCode":"SJU","CountryName":"Puerto Rico","Region":"Americas"}
+{"AirportCode":"VQS","CountryName":"Puerto Rico","Region":"Americas"}
+{"AirportCode":"MAZ","CountryName":"Puerto Rico","Region":"Americas"}
+{"AirportCode":"ASU","CountryName":"Paraguay","Region":"Americas"}
+{"AirportCode":"SXM","CountryName":"Sint Maarten","Region":"Americas"}
+{"AirportCode":"PLS","CountryName":"Turks and Caicos Islands","Region":"Americas"}
+{"AirportCode":"GDT","CountryName":"Turks and Caicos Islands","Region":"Americas"}
+{"AirportCode":"TAB","CountryName":"Trinidad and Tobago","Region":"Americas"}
+{"AirportCode":"POS","CountryName":"Trinidad and Tobago","Region":"Americas"}
+{"AirportCode":"ORF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CRW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BTV","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LGA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JST","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JFK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CVG","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SCE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"AZO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SWF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BGR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RSW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DTW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ROC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CAE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TYS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ECP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EYW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GNV","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EWR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RDU","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"IAD","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MDT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TOL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EWN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CHO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PBI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DAB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BWI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CLE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"OAJ","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BOS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DAY","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"AVL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SFB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MYR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GSP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CMX","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ITH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TPA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ILM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FWA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ABE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FLL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"NOP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CAK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PIT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MVY","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FAY","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CHA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CHS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ELM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MIA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HPN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BUF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RIC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TLH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CMH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"IND","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SYR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TVC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MLB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SRQ","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FNT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LEX","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JAX","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CLT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MBS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ATL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SAV","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FLO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ALB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MCO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SBN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GRR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BDL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GSO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SDF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PHL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DCA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SVD","CountryName":"Saint Vincent and the Grenadines","Region":"Americas"}
+{"AirportCode":"EIS","CountryName":"British Virgin Islands","Region":"Americas"}
+{"AirportCode":"STX","CountryName":"U.S. Virgin Islands","Region":"Americas"}
+{"AirportCode":"STT","CountryName":"U.S. Virgin Islands","Region":"Americas"}
+{"AirportCode":"CCS","CountryName":"Venezuela","Region":"Americas"}
+{"AirportCode":"MAR","CountryName":"Venezuela","Region":"Americas"}
+{"AirportCode":"VLN","CountryName":"Venezuela","Region":"Americas"}
+{"AirportCode":"RBR","CountryName":"Brazil","Region":"Americas"}
+{"AirportCode":"YWG","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"IPC","CountryName":"Chile","Region":"Americas"}
+{"AirportCode":"BOG","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"BAQ","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"CUC","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"MTR","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"TCO","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"IBE","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"EYP","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"CTG","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"VVC","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"MZL","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"PPN","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"BGA","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"CLO","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"NVA","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"MDE","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"FLA","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"AXM","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"VUP","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"PEI","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"ADZ","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"SMR","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"LET","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"CZU","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"PSO","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"RCH","CountryName":"Colombia","Region":"Americas"}
+{"AirportCode":"LGQ","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"OCC","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"CUE","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"GYE","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"LOH","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"UIO","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"MEC","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"ETR","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"ESM","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"KIN","CountryName":"Jamaica","Region":"Americas"}
+{"AirportCode":"MBJ","CountryName":"Jamaica","Region":"Americas"}
+{"AirportCode":"GCM","CountryName":"Cayman Islands","Region":"Americas"}
+{"AirportCode":"PAZ","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MAM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"DGO","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"ZIH","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"SLP","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"QRO","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"AGU","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"VER","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MLM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"REX","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"VSA","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"PBC","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MID","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"HUX","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"PVR","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MEX","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"BJX","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MTT","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CPE","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MTY","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"GDL","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"PQM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CVM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"TRC","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CZM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"TAM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"NLD","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"ACA","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CUN","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"TLC","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"ZCL","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CTM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CLQ","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"TAP","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"ZLO","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"OAX","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"PXM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CME","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"DAV","CountryName":"Panama","Region":"Americas"}
+{"AirportCode":"PTY","CountryName":"Panama","Region":"Americas"}
+{"AirportCode":"CUZ","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"AQP","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"CJA","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"PEM","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"PIU","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"PCL","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"CIX","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"TCQ","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"JUL","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"TPP","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"TRU","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"LIM","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"IQT","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"AYP","CountryName":"Peru","Region":"Americas"}
+{"AirportCode":"GTR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MSN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SPI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MAF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GRB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LBB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SAT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GPT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BTR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MDW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FAR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"AUS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PIA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"OKC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GFK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DAL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CRP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BPT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PNS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MSY","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GCK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BIS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ABI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SJT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ORD","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DSM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DFW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ICT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LAW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TUL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"COU","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MSP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DLH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"STL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GRK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SHV","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HOU","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BNA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SGF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LCH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MKE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LFT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MEM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FSD","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"OMA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BHM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GGG","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MGM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"VPS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MFE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MCI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"XNA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BMI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"AMA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FSM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RST","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HSV","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MLI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LNK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MOB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LIT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EVV","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ATW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CID","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"IAH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JLN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"CUK","CountryName":"Belize","Region":"Americas"}
+{"AirportCode":"BZE","CountryName":"Belize","Region":"Americas"}
+{"AirportCode":"TZA","CountryName":"Belize","Region":"Americas"}
+{"AirportCode":"SPR","CountryName":"Belize","Region":"Americas"}
+{"AirportCode":"YXH","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YZF","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YEG","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQU","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YYC","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQR","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXE","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQL","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXC","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YMM","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"SJO","CountryName":"Costa Rica","Region":"Americas"}
+{"AirportCode":"LIR","CountryName":"Costa Rica","Region":"Americas"}
+{"AirportCode":"SCY","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"GPS","CountryName":"Ecuador","Region":"Americas"}
+{"AirportCode":"FRS","CountryName":"Guatemala","Region":"Americas"}
+{"AirportCode":"GUA","CountryName":"Guatemala","Region":"Americas"}
+{"AirportCode":"SAP","CountryName":"Honduras","Region":"Americas"}
+{"AirportCode":"RTB","CountryName":"Honduras","Region":"Americas"}
+{"AirportCode":"LCE","CountryName":"Honduras","Region":"Americas"}
+{"AirportCode":"TGU","CountryName":"Honduras","Region":"Americas"}
+{"AirportCode":"CUL","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"SJD","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"TGZ","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"LAP","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CUU","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CJS","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"LMM","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MZT","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MGA","CountryName":"Nicaragua","Region":"Americas"}
+{"AirportCode":"SAL","CountryName":"El Salvador","Region":"Americas"}
+{"AirportCode":"CPR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SGU","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SUN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RAP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DRO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JAE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"DEN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MSO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ASE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SLC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BOI","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FCA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GUC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JAC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HDN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HLN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BIL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"COD","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"COS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BZN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ABQ","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EGE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"IDA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ELP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SAF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GTF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"YVR","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXX","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YKA","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXT","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YYJ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YZZ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXJ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YZT","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YCD","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YYF","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXS","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YBL","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YLW","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YQQ","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"YXY","CountryName":"Canada","Region":"Americas"}
+{"AirportCode":"TIJ","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"HMO","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"MXL","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"CEN","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"LTO","CountryName":"Mexico","Region":"Americas"}
+{"AirportCode":"PDX","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PSC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"GEG","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SAN","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"TUS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PSP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PAE","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LAX","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"YKM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"FAT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RNO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SFO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MFR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EUG","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"OTH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SBP","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RDM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PHX","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"EAT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LWS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"RDD","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MMH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"OAK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ONT","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SJC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SMF","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SEA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BUR","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MRY","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SNA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"SBA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LAS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PGA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"PUW","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LGB","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"ANC","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HNS","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JNU","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"BNK","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"MCY","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"ISA","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"PQQ","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"ARM","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"MQL","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"GLT","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"MOV","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"AVV","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"ABX","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"NTL","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"HTI","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"TSV","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"MKY","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"DBO","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"CFS","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"OOL","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"SYD","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"EMD","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"PPP","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"BDB","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"LST","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"CNJ","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"BNE","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"TMW","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"DPO","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"HVB","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"WGA","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"CBR","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"CNS","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"MEL","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"HBA","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"ROK","CountryName":"Australia","Region":"Oceania"}
+{"AirportCode":"GUM","CountryName":"Guam","Region":"Oceania"}
+{"AirportCode":"SPN","CountryName":"Northern Mariana Islands","Region":"Oceania"}
+{"AirportCode":"GKA","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"WWK","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"KVG","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"MAG","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"HGU","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"RAB","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"GUR","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"HKN","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"LAE","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"POM","CountryName":"Papua New Guinea","Region":"Oceania"}
+{"AirportCode":"UUS","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"KHV","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"VVO","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"GDX","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"NOU","CountryName":"New Caledonia","Region":"Oceania"}
+{"AirportCode":"HIR","CountryName":"Solomon Islands","Region":"Oceania"}
+{"AirportCode":"TAH","CountryName":"Vanuatu","Region":"Oceania"}
+{"AirportCode":"SON","CountryName":"Vanuatu","Region":"Oceania"}
+{"AirportCode":"VLI","CountryName":"Vanuatu","Region":"Oceania"}
+{"AirportCode":"TVU","CountryName":"Fiji","Region":"Oceania"}
+{"AirportCode":"SUV","CountryName":"Fiji","Region":"Oceania"}
+{"AirportCode":"SVU","CountryName":"Fiji","Region":"Oceania"}
+{"AirportCode":"NAN","CountryName":"Fiji","Region":"Oceania"}
+{"AirportCode":"KKE","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"PMR","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"IVC","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"AKL","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"WRE","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"ZQN","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"WLG","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"TRG","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"NPL","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"HKK","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"NSN","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"DUD","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"NPE","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"ROT","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"GIS","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"BHE","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"CHC","CountryName":"New Zealand","Region":"Oceania"}
+{"AirportCode":"PKC","CountryName":"Russia","Region":"Europe"}
+{"AirportCode":"VAV","CountryName":"Tonga","Region":"Oceania"}
+{"AirportCode":"TBU","CountryName":"Tonga","Region":"Oceania"}
+{"AirportCode":"APW","CountryName":"Samoa","Region":"Oceania"}
+{"AirportCode":"CXI","CountryName":"Kiribati","Region":"Oceania"}
+{"AirportCode":"AIT","CountryName":"Cook Islands","Region":"Oceania"}
+{"AirportCode":"RAR","CountryName":"Cook Islands","Region":"Oceania"}
+{"AirportCode":"RFP","CountryName":"French Polynesia","Region":"Oceania"}
+{"AirportCode":"MOZ","CountryName":"French Polynesia","Region":"Oceania"}
+{"AirportCode":"BOB","CountryName":"French Polynesia","Region":"Oceania"}
+{"AirportCode":"PPT","CountryName":"French Polynesia","Region":"Oceania"}
+{"AirportCode":"RGI","CountryName":"French Polynesia","Region":"Oceania"}
+{"AirportCode":"ITO","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"MKK","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"HNL","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"LIH","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"JHM","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"KOA","CountryName":"United States","Region":"Americas"}
+{"AirportCode":"OGG","CountryName":"United States","Region":"Americas"}
