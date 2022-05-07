@@ -199,3 +199,37 @@ resource "azurerm_key_vault_secret" "ehkey1" {
     azurerm_key_vault_access_policy.storage,
   ]
 }
+
+//AzureSQL DB
+
+resource "random_string" "azsqlpass" {
+  length  = 16
+  lower = true
+}
+resource "azurerm_mssql_server" "azsqlserver" {
+  name                         = join("", [var.azuresqlserver_name,random_string.strapp.result])
+  resource_group_name          = azurerm_resource_group.rg.name
+  location                     = var.azuresqlserver_location //azurerm_resource_group.rg.location
+  version                      = "12.0"
+  administrator_login          = "albertnoguescom"
+  administrator_login_password = random_string.azsqlpass.result
+
+  tags = {
+    environment = "PoC"
+  }
+}
+
+resource "azurerm_mssql_database" "azsqldb" {
+  name                  = var.azuresqldb_name
+  server_id             = azurerm_mssql_server.azsqlserver.id
+  collation             = "SQL_Latin1_General_CP1_CI_AS"
+  //license_type          = "LicenseIncluded"
+  max_size_gb           = 2
+  sku_name              = "Basic"
+  storage_account_type  = "LRS"
+
+  tags = {
+    environment = "PoC"
+  }
+
+}

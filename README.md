@@ -25,7 +25,7 @@ TOOLS:
     + Databricks Workspace
     + EventHub Namespace and an EvenHub
     + DataFactory (in progress)
-    + Azure SQL DB (in progress)
+    + Azure SQL DB
     + Azure DevOps workspace (future)
 * Access to the azure portal to configure manually the secret scope (see known issues and limitations)
 

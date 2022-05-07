@@ -42,3 +42,18 @@ variable "evenhub_name" {
     default = "transactions"
     description = "Evenhub Transactions Name"
 }
+
+variable "azuresqlserver_name" {
+    default = "albertnoguescom"
+    description = "Azure SQL Server Name"
+}
+
+variable "azuresqlserver_location" {
+    default = "eastus"
+    description = "Azure SQL Server Datacenter Location"
+}
+
+variable "azuresqldb_name" {
+    default = "albertnoguescom"
+    description = "Azure SQL Database Name"
+}

@@ -23,7 +23,7 @@ resource "databricks_notebook" "streaming_notebook" {
 
 //Create Databricks cluster, we take the smallest one
 data "databricks_node_type" "smallest" {
-  local_disk = true
+  local_disk = true //If we uncomment this we will get a Standard_E4s_v4 instance a shade more expensive but with 32 gb of ram instead of the 8 of the Standard_F4s so may be worth it if you need more power
   depends_on = [azurerm_databricks_workspace.adb]
 }
 
