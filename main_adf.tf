@@ -125,7 +125,8 @@ resource "azurerm_data_factory_pipeline" "loadlocations" {
                             "enablePartitionDiscovery": false
                         },
                         "formatSettings": {
-                            "type": "JsonReadSettings"
+                            "type": "JsonReadSettings",
+                            "compressionProperties": null
                         }
                     },
                     "sink": {
